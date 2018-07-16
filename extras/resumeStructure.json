@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Vishal Singh",
+    "email": "vishalsingh@hindustantimes.com",
+    "phone": "(555) 555-5555.",
+    "degree": "B.tech",
+    "website": "shine.com",
+    "summary": "started working in shine",
+    "location": {
+      "address": "Centra Park",
+      "postalCode": "201089",
+      "city": "Gurugram",
+      "countryCode": "India",
+      "region": "Haryana"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vishal180618",
+        "url": "github.com/vishal180618/myrepositories"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Shine",
+      "position": "Executive Software Developer",
+      "location": "gurgoan",
+      "website": "shine.com",
+      "startDate": "2018",
+      "endDate": "present",
+      "summary": "working in python",
+      "highlights": [
+        "learning django"
+      ]
+    },
+    {
+      "company": "HT Media",
+      "position": "Product Manager",
+      "location": "gurgoan",
+      "website": "hindustantimes.com",
+      "startDate": "2993",
+      "endDate": "present",
+      "summary": "hindustan times, HT Mint",
+      "highlights": [
+        "newspaper company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ABES ENGINEERING COLLEGE",
+      "area": "BTECH",
+      "studyType": "REGULAR",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "68"
+    },
+    {
+      "institution": "Dyawati Modi Academy",
+      "area": "Intermediate",
+      "studyType": "REGULAR",
+      "startDate": "2013",
+      "endDate": "2014",
+      "gpa": "87"
+    },
+    {
+      "institution": "Green Wood Sr. Sec. School",
+      "area": "High School",
+      "studyType": "REGULAR",
+      "startDate": "2011",
+      "endDate": "2012",
+      "gpa": "9.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Your award title",
+      "date": "Your date, in YYYY-MM-DD format you received the award",
+      "awarder": "Your award given by",
+      "summary": "A one-sentence to one-paragraph overview of this award"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Light Web Crawler using python",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "a crawler with functionalities of saving the data and email the content of the crawler to the receipent"
+    },
+    {
+      "name": "Resume-Service",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "JSON->HTML->PDF"
+    },
+    {
+      "name": "Build an app in Django",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "Unknown_project_not_specified"
+    }
+  ],
+  "skills": [
+    "C",
+    "java ",
+    "python",
+    "c++"
+  ],
+  "languages": [
+    {
+      "language": "Language name",
+      "fluency": "Your language fluency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "A category of interests (e.g. 'Sports')",
+      "keywords": [
+        "Keywords under this category (e.g. 'Cricket', 'Football', 'Golf')"
+      ]
+    }
+  ]
+}
